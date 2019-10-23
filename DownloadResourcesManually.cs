@@ -120,8 +120,6 @@ public class DownloadResourcesManually: EditorWindow
         List<Download> list = new List<Download>();
         foreach (var file in files)
         {
-            Debug.Log(file.FullName);
-            Debug.Log(file.Extension);
             if (file.Extension==".json")
             {
                 string json =File.ReadAllText(file.FullName);
