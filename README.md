@@ -20,3 +20,6 @@ Download The Resources in Unity Assetstore Manually
  - 用url里面的地址手动下载，完成后把路径复制进package path ，然后点decrypt，之后会在相同目录产生一个对应的unitypackage文件  
    Download manually with the address in the URL, copy the downloaded file path into the package path, and then click decrypt. A corresponding unitypackage file will be generated in the same directory.  
 
+# 其他 others  
+如果不是windows系统，需要改一下path的值  
+If not the windows os, need to change the value of path
