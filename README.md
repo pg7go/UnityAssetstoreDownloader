@@ -9,7 +9,7 @@ Download The Resources in Unity Assetstore Manually
   Download DownloadResourcesManually.cs file, and put into Editor folder  
   
 - 在商店里下载一个你需要的资源  
-- Download a resource in the untiy aseet store  
+  Download a resource in the untiy aseet store  
   
 - 在工具栏找到Tools-DownloadResourcesManually，打开界面  
   Find Tools-DownloadResourcesManually on toolbar, and open the windows  
