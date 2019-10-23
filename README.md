@@ -1,10 +1,10 @@
-# UnityAssetstoreDownloader
-手动下载、解密Unity商店的插件
-Download The Resources in Unity Assetstore Manually
+# UnityAssetstoreDownloader  
+手动下载、解密Unity商店的插件  
+Download The Resources in Unity Assetstore Manually  
 
 ![gif](https://github.com/pg7go/UnityAssetstoreDownloader/blob/master/gif.gif)  
 
-#Usage  
+# 使用方法 Usage  
 - 下载DownloadResourcesManually.cs，并放到Editor文件夹中   
   Download DownloadResourcesManually.cs file, and put into Editor folder  
   
