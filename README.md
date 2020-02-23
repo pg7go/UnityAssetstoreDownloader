@@ -5,7 +5,7 @@ Download The Resources in Unity Assetstore Manually
 ![gif](https://github.com/pg7go/UnityAssetstoreDownloader/blob/master/gif.gif)  
 
 # 使用方法 Usage  
-- 下载DownloadResourcesManually.cs，放到unity里面
+- 下载DownloadResourcesManually.cs，放到unity里面  
   Download DownloadResourcesManually.cs file, and import into unity  
   
 - 在商店里下载一个你需要的资源  
